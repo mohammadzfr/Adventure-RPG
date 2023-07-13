@@ -1,7 +1,7 @@
 # Choose Your Own Adventure/Adventure RPG
 ## DEMO VIDEO
-<!-- https://youtu.be/TbPRxxqF2eU -->
-[![Blinking LEDs](http://img.youtube.com/vi/TbPRxxqF2eU/0.jpg)](http://www.youtube.com/watch?v=TbPRxxqF2eU"Blinking LEDs")
+
+[![Demo Video](https://img.youtube.com/vi/TbPRxxqF2eU/0.jpg)](https://youtu.be/TbPRxxqF2eU)
 
 ## Overview
 A terminal game programmed completely in C++
