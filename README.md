@@ -31,6 +31,8 @@ Skills used: **Linked lists, Object Oriented programming practices like polymorp
 3. Enjoy!
 
 ## Project Overview
+
+```
 Adventure-RPG/
 |── Game.cpp // controls movement and game states
 |── Game.h
@@ -54,4 +56,4 @@ Adventure-RPG/
 |── jungle_text.txt // jungle map descriptions
 |── main.cpp // the main program
 |── start // executable
-
+```
